@@ -24,3 +24,5 @@ User Flow:
 Users type a message and hit 'Send'. Altsalerin messages in the chat box; Messages survive a page reload using local storage This application provides simple, responsive, and user-friendly chat, which can be useful for fairly basic real-time communication needs.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c18e6ce8-cee8-48cf-9d46-5c44ae4bd683)
